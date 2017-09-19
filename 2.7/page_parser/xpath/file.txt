@@ -1,0 +1,805 @@
+<!DOCTYPE HTML>
+
+<HTML lang="en">
+  <HEAD>
+    <meta name="description"          content="This category is for books, paper and online, on the Python programming language and closely related topics.">
+    <meta name="keywords"             content="Computers, Programming, Languages, Python, Books">
+    <meta name="viewport"             content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type"   content="text/html; charset=UTF-8">
+
+    <TITLE>DMOZ - Computers: Programming: Languages: Python: Books</TITLE>
+
+    <meta property="og:url"           content="" />
+    <meta property="og:type"          content="website" />
+    <meta property="og:title"         content="DMOZ - Computers: Programming: Languages: Python: Books" />
+    <meta property="og:description"   content="The Directory of the Web" />
+    <meta property="og:image"         content="/img/mozzie-banner.png" />
+
+    <link rel="icon"          type="image/x-icon"  href="/img/mozilla.gif"      />
+    <link rel="shortcut icon" type="image/x-icon"  href="/img/mozilla.gif"      />
+
+    <link rel="stylesheet"    type="text/css"      href="/css/slick/slick.css"  />
+    <link rel="stylesheet"    type="text/css"      href="/css/slick/slick-theme.css" />
+    <link rel="stylesheet"    type="text/css"      href="/css/font-awesome/css/font-awesome.min.css" />
+
+    <link rel="stylesheet"    type="text/css"      href="/css/dmoz-common.css"  />
+    <link rel="stylesheet"    type="text/css"      href="/css/dmoz-cats.css"    />
+    <link rel="stylesheet"    type="text/css"      href="/css/dmoz-sites.css"   />
+    <link rel="stylesheet"    type="text/css"      href="/css/dmoz-icons.css"   />
+    <link rel="stylesheet"    type="text/css"      href="/css/dmoz-cat-computers.css"   />
+
+    <script type="text/javascript" src="/js/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="/js/slick/slick.min.js"></script>
+    <script type="text/javascript" src="/js/dmoz-common.js"></script>
+    <script type="text/javascript" src="/js/dmoz-social.js"></script>
+    <script type="text/javascript" src="/js/dmoz-design.js"></script>
+
+    <BASE target="_top">
+  </HEAD>
+
+<body dir="LTR">
+
+  <!---------- FACEBOOK FOLLOW ---------->
+
+  <div id="fb-root"></div>
+
+  <!---------- SMALL HEADER ---------->
+
+    <header>
+      <div class="logo-container">
+        <a class="logo" title="DMOZ" href="/"><span>DMOZ</span></a>
+      </div>
+
+      <div class="hero"></div>
+
+      <a class="navigation menu"  id="mobile-menu"><i id="mobile-menu-icon" class="fa fa-bars"></i></a>
+      <a class="socialmedia menu" id="social-menu"><i id="social-menu-icon" class="fa fa-share-alt"></i></a>
+    </header>
+
+  <!---------- SOCIAL -------------->
+
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+    <div class="twitter-follow viewer"><a class="twitter-follow-button" href="https://twitter.com/dmoz" data-show-count="false" data-dnt="true"></a></div>
+    <div class="fb-follow" data-href="https://www.facebook.com/dmoz" data-layout="button" data-show-faces="false"></div>
+    <div class="fb-like" data-href="http://dmoz.org" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
+
+  <!---------- NAVIGATION ---------->
+
+    <nav id="main-nav">
+        <ul>
+            <li> <a href="/docs/en/about.html">        About       </a> </li>
+            <li> <a href="/docs/en/help/become.html">   Become an Editor </a> </li>
+            <li> <a href="/docs/en/add.html">            Suggest a Site          </a> </li>
+            <li> <a href="/docs/en/help/helpmain.html"> Help             </a> </li>
+
+            <li> <a href="/editors/"> Login                       </a> </li>
+
+        </ul>
+    </nav>
+
+  <!---------- SOCIAL MENU ---------->
+
+    <nav id="main-social" class="nodeviewer">
+        <ul>
+            <li class="social-link" onClick="share('facebook', 'nodeviewer', '' )">                                        <i class="fa fa-2x fa-facebook-square"></i> Share via Facebook </li>
+            <li class="social-link" onClick="share('twitter',  'nodeviewer', '#OrganizeTheWeb' )"> <i class="fa fa-2x fa-twitter-square"></i>  Share via Twitter  </li>
+            <li class="social-link" onClick="share('linkedin', 'nodeviewer', '' )">                                        <i class="fa fa-2x fa-linkedin-square"></i> Share via LinkedIn </li>
+            <li class="social-link" onClick="share('mail',     'nodeviewer', '' )">                                        <i class="fa fa-2x fa-envelope-square"></i> Share via e-Mail   </li>
+            <p>
+            <li> <span><a class="social-link" target="_blank" href="http://www.facebook.com/dmoz"> <i class="fa fa-2x fa-facebook-square"></i> Visit DMOZ on Facebook </a></span> </li>
+            <li> <span><a class="social-link" target="_blank" href="http://www.twitter.com/dmoz">  <i class="fa fa-2x fa-twitter-square"></i>  Visit DMOZ on Twitter </a></span>  </li>
+        </ul>
+    </nav>
+
+  <!---------- SEARCH ---------->
+
+  <div id="main-content" class="content ">
+
+    <section id="node-search-viewer" class="search-and-social">
+
+      <div class="search-wrapper">
+
+          <form id="search-form" action="/search" method="GET">
+
+            <span id="more-search-options">
+              <i id="advanced-search-icon" class='fa fa-plus'></i>
+            </span>
+
+            <div class="basic-search">
+              <input class="text-box" type="search" name="q" value="" autofocus placeholder=" Search DMOZ"/>
+              <i class="search-submit-button fa fa-search"></i>
+              <input type="hidden" name="all" value="no" >
+              <input type="hidden" name="t" value="computers" >
+            </div>
+
+            <div class="social ns">
+              <span id="share-facebook" class="fa fa-2x fa-facebook-square"    onClick="share('facebook', 'nodeviewer', '' )"></span>
+              <span id="share-twitter"  class="fa fa-2x fa-twitter-square"     onClick="share('twitter',  'nodeviewer', '#OrganizeTheWeb' )"></span>
+              <span id="share-linkedin" class="fa fa-2x fa-linkedin-square"    onClick="share('linkedin', 'nodeviewer', '' )"></span>
+              <span id="share-mail"     class="fa fa-2x fa-envelope-square"    onClick="share('mail',     'nodeviewer', '' )"></span>
+              <span id="share-google"   class="fa fa-2x fa-google-plus-square" onClick="share('google',   'nodeviewer', '' )"></span>
+            </div>
+
+            <div class="advanced-search-option" id="advanced-node-div">
+              <select name="cat" id="advanced-node-select" class="node-select">
+
+
+                  <option value="all" selected id="all-yes"><label for="all-yes">the entire directory</label></option>
+
+                  <option value="Computers" id="all-no"><label for="all-no"> &nbsp;  Computers</label></option>
+
+                  <option value="Computers/Programming" id="all-no"><label for="all-no"> &nbsp;  &nbsp;  Programming</label></option>
+
+                  <option value="Computers/Programming/Languages" id="all-no"><label for="all-no"> &nbsp;  &nbsp;  &nbsp;  Languages</label></option>
+
+                  <option value="Computers/Programming/Languages/Python" id="all-no"><label for="all-no"> &nbsp;  &nbsp;  &nbsp;  &nbsp;  Python</label></option>
+
+                  <option value="Computers/Programming/Languages/Python/Books" id="all-no"><label for="all-no"> &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  Books</label></option>
+
+              </select>
+            </div>
+
+            <div class="advanced-search-option search-help">
+              <a id="advanced-search-link" href="/docs/en/searchguide.html">Help with Search</a>
+            </div>
+
+          </form>
+      </div>
+
+   </section>
+
+
+
+<div id="doc">
+
+    <section class="results desc-and-faq">
+
+          <!---------- DESCRIPTION and FAQ ---------->
+
+            <div class="desc-and-faq">
+
+
+                    <div class="desc-link"><a title="Category Description" href="/desc/Computers/Programming/Languages/Python/Books"><i class="fa fa-info-circle"></i></a></div>
+
+            </div>
+
+          <!---------- CURRENT CATEGORY ---------->
+
+            <div class="current-cat computers">
+<i class='cat-path fa fa-chevron-right'></i><a class='breadcrumb' href='/Computers/'> Computers</a><i class='cat-path fa fa-chevron-right'></i><a class='breadcrumb' href='/Computers/Programming/'> Programming</a><i class='cat-path fa fa-chevron-right'></i><a class='breadcrumb' href='/Computers/Programming/Languages/'> Languages</a><i class='cat-path fa fa-chevron-right'></i><a class='breadcrumb' href='/Computers/Programming/Languages/Python/'> Python</a>
+                  <i class='cat-path fa fa-chevron-right'></i>Books <div class="node-count">18</div>
+
+                <span class="volunteer"><a title='Volunteer to edit this category' href="/public/apply?t=computers&cat=Computers/Programming/Languages/Python/Books"><i class="volunteer volunteer-this fa fa-user-plus"></i></a></span>
+
+                <span class="suggest-url"><a title='Suggest a site for this category' href="/public/suggest?t=computers&cat=Computers/Programming/Languages/Python/Books"><i class="suggest-url fa fa-clipboard"></i></a></span>
+
+                <span class="report-abuse"><a title='Report spam or abuse of this category' href="/public/abuse?t=computers&cat=Computers/Programming/Languages/Python/Books&lang=en"><i class="report-abuse fa fa-user-secret"></i></a></span>
+
+            </div>   <!-- end of div current-cat -->
+
+            <div id="description-block" class="themed-background">
+              <div id="description-close"> <i class='fa fa-times-circle'></i> </div>
+              <div id="description-text"> This category is for books, paper and online, on the Python programming language and closely related topics.   </div>
+            </div>
+
+    </section>
+
+
+          <!---------- ALPHABAR ---------->
+
+
+
+          <!---------- CHILD CATEGORIES ---------->
+
+                  </section>
+
+          <!---------- RELATED CATEGORIES ---------->
+
+              <section class="results see-also">
+                <h3 id="see-also-header" class="node-header">
+                  <i class='arrow fa fa-caret-down'></i>
+                  <span class="header-text">Related categories</span>
+                  <span class="header-count node-count">2</span>
+                  <i class='section-closed fa fa-folder'></i>
+                  <i class='section-open   fa fa-folder-open'></i>
+                </h3>
+                <div id="related-section" class="section-wrapper">
+                  <div id="see-also-content" class="table see-also cat-content results">
+
+                      <div class="see-also-row">
+                        <a class="row see-also" href="/Computers/Programming/Languages/Python/Resources/">
+                            <div class="cell one-folder-icon"> <i class='catIcon fa fa-folder'></i> </div>
+                            <div class="cell one-browse-node"> Computers<i class='fa fa-chevron-right'></i> Programming<i class='fa fa-chevron-right'></i> Languages<i class='fa fa-chevron-right'></i> Python<i class='fa fa-chevron-right'></i> Resources </div>
+                            <div class="cell one-node-count node-count">4</div>
+                        </a>
+                      </div>
+
+                      <div class="see-also-row">
+                        <a class="row see-also" href="/Computers/Programming/Languages/Ruby/Books/">
+                            <div class="cell one-folder-icon"> <i class='catIcon fa fa-folder'></i> </div>
+                            <div class="cell one-browse-node"> Computers<i class='fa fa-chevron-right'></i> Programming<i class='fa fa-chevron-right'></i> Languages<i class='fa fa-chevron-right'></i> Ruby<i class='fa fa-chevron-right'></i> Books </div>
+                            <div class="cell one-node-count node-count">7</div>
+                        </a>
+                      </div>
+
+                  </div>
+                </div>
+    </section>
+
+
+
+    <!---------- SITES ---------->
+
+    <section class="results sites">
+
+                <h3 id="site-list-header" class="node-header site-header">
+                     <i class='arrow fa fa-caret-down'></i>
+                     <span class="header-text">Sites</span>
+                     <span class="header-count node-count">18</span>
+                     <i class='section-closed fa fa-file-o'></i>
+                     <i class='section-open   fa fa-file-text-o'></i>
+                </h3>
+
+                <div id="sites-section" class="section-wrapper">
+                        <div id="site-list-content" class="results browse-content">
+
+                            <div class="site-item ">
+                                <div class="site-icon "><i class='siteIcon fa fa-file-text-o'></i></div>
+                                <div class="site-flag">
+                                  <a href="/public/flag?t=computers&cat=Computers%2FProgramming%2FLanguages%2FPython%2FBooks&url=http%3A%2F%2Fwww.brpreiss.com%2Fbooks%2Fopus7%2Fhtml%2Fbook.html"
+                                     title="Report an issue with this listing"><i class='fa fa-flag'></i></a>
+                                </div>
+
+                                <div class="title-and-desc">
+                                  <a target="_blank" href="http://www.brpreiss.com/books/opus7/html/book.html">
+                                    <div class="site-title">Data Structures and Algorithms with Object-Oriented Design Patterns in Python </div>
+                                  </a>
+                                  <div class="site-descr ">
+
+                                    The primary goal of this book is to promote object-oriented design using Python and to illustrate the use of the emerging object-oriented design patterns.
+A secondary goal of the book is to present mathematical tools just in time. Analysis techniques and proofs are presented as needed and in the proper context.
+                                    <span class="content-type media-date"></span>
+                                  </div>
+                                </div>
+                            </div>
+
+                            <div class="site-item ">
+                                <div class="site-icon "><i class='siteIcon fa fa-file-text-o'></i></div>
+                                <div class="site-flag">
+                                  <a href="/public/flag?t=computers&cat=Computers%2FProgramming%2FLanguages%2FPython%2FBooks&url=http%3A%2F%2Fwww.diveintopython.net%2F"
+                                     title="Report an issue with this listing"><i class='fa fa-flag'></i></a>
+                                </div>
+
+                                <div class="title-and-desc">
+                                  <a target="_blank" href="http://www.diveintopython.net/">
+                                    <div class="site-title">Dive Into Python 3 </div>
+                                  </a>
+                                  <div class="site-descr ">
+
+                                    By Mark Pilgrim, Guide to Python 3  and its differences from Python 2. Each chapter starts with a real code sample and explains it fully. Has a comprehensive appendix of all the syntactic and semantic changes in Python 3
+
+
+                                    <span class="content-type media-date"></span>
+                                  </div>
+                                </div>
+                            </div>
+
+                            <div class="site-item ">
+                                <div class="site-icon "><i class='siteIcon fa fa-file-text-o'></i></div>
+                                <div class="site-flag">
+                                  <a href="/public/flag?t=computers&cat=Computers%2FProgramming%2FLanguages%2FPython%2FBooks&url=http%3A%2F%2Frhodesmill.org%2Fbrandon%2F2011%2Ffoundations-of-python-network-programming%2F"
+                                     title="Report an issue with this listing"><i class='fa fa-flag'></i></a>
+                                </div>
+
+                                <div class="title-and-desc">
+                                  <a target="_blank" href="http://rhodesmill.org/brandon/2011/foundations-of-python-network-programming/">
+                                    <div class="site-title">Foundations of Python Network Programming </div>
+                                  </a>
+                                  <div class="site-descr ">
+
+                                    This book covers a wide range of topics. From raw TCP and UDP to encryption with TSL, and then to HTTP, SMTP, POP, IMAP, and ssh. It gives you a good understanding of each field and how to do everything on the network with Python.
+                                    <span class="content-type media-date"></span>
+                                  </div>
+                                </div>
+                            </div>
+
+                            <div class="site-item ">
+                                <div class="site-icon "><i class='siteIcon fa fa-file-text-o'></i></div>
+                                <div class="site-flag">
+                                  <a href="/public/flag?t=computers&cat=Computers%2FProgramming%2FLanguages%2FPython%2FBooks&url=http%3A%2F%2Fwww.techbooksforfree.com%2Fperlpython.shtml"
+                                     title="Report an issue with this listing"><i class='fa fa-flag'></i></a>
+                                </div>
+
+                                <div class="title-and-desc">
+                                  <a target="_blank" href="http://www.techbooksforfree.com/perlpython.shtml">
+                                    <div class="site-title">Free Python books </div>
+                                  </a>
+                                  <div class="site-descr ">
+
+                                    Free Python books and tutorials.
+                                    <span class="content-type media-date"></span>
+                                  </div>
+                                </div>
+                            </div>
+
+                            <div class="site-item ">
+                                <div class="site-icon "><i class='siteIcon fa fa-file-text-o'></i></div>
+                                <div class="site-flag">
+                                  <a href="/public/flag?t=computers&cat=Computers%2FProgramming%2FLanguages%2FPython%2FBooks&url=http%3A%2F%2Fwww.freetechbooks.com%2Fpython-f6.html"
+                                     title="Report an issue with this listing"><i class='fa fa-flag'></i></a>
+                                </div>
+
+                                <div class="title-and-desc">
+                                  <a target="_blank" href="http://www.freetechbooks.com/python-f6.html">
+                                    <div class="site-title">FreeTechBooks: Python Scripting Language </div>
+                                  </a>
+                                  <div class="site-descr ">
+
+                                    Annotated list of free online books on Python scripting language. Topics range from beginner to advanced.
+                                    <span class="content-type media-date"></span>
+                                  </div>
+                                </div>
+                            </div>
+
+                            <div class="site-item ">
+                                <div class="site-icon "><i class='siteIcon fa fa-file-text-o'></i></div>
+                                <div class="site-flag">
+                                  <a href="/public/flag?t=computers&cat=Computers%2FProgramming%2FLanguages%2FPython%2FBooks&url=http%3A%2F%2Fgreenteapress.com%2Fthinkpython%2F"
+                                     title="Report an issue with this listing"><i class='fa fa-flag'></i></a>
+                                </div>
+
+                                <div class="title-and-desc">
+                                  <a target="_blank" href="http://greenteapress.com/thinkpython/">
+                                    <div class="site-title">How to Think Like a Computer Scientist: Learning with Python </div>
+                                  </a>
+                                  <div class="site-descr ">
+
+                                    By Allen B. Downey, Jeffrey Elkner, Chris Meyers; Green Tea Press, 2002, ISBN 0971677506. Teaches general principles of programming, via Python as subject language. Thorough, in-depth approach to many basic and intermediate programming topics. Full text online and downloads: HTML, PDF, PS, LaTeX. [Free, Green Tea Press]
+                                    <span class="content-type media-date"></span>
+                                  </div>
+                                </div>
+                            </div>
+
+                            <div class="site-item ">
+                                <div class="site-icon "><i class='siteIcon fa fa-file-text-o'></i></div>
+                                <div class="site-flag">
+                                  <a href="/public/flag?t=computers&cat=Computers%2FProgramming%2FLanguages%2FPython%2FBooks&url=http%3A%2F%2Fwww.network-theory.co.uk%2Fpython%2Fintro%2F"
+                                     title="Report an issue with this listing"><i class='fa fa-flag'></i></a>
+                                </div>
+
+                                <div class="title-and-desc">
+                                  <a target="_blank" href="http://www.network-theory.co.uk/python/intro/">
+                                    <div class="site-title">An Introduction to Python </div>
+                                  </a>
+                                  <div class="site-descr ">
+
+                                    By Guido van Rossum, Fred L. Drake, Jr.; Network Theory Ltd., 2003, ISBN 0954161769. Printed edition of official tutorial, for v2.x, from Python.org. [Network Theory, online]
+                                    <span class="content-type media-date"></span>
+                                  </div>
+                                </div>
+                            </div>
+
+                            <div class="site-item ">
+                                <div class="site-icon "><i class='siteIcon fa fa-file-text-o'></i></div>
+                                <div class="site-flag">
+                                  <a href="/public/flag?t=computers&cat=Computers%2FProgramming%2FLanguages%2FPython%2FBooks&url=http%3A%2F%2Fwww.wiley.com%2FWileyCDA%2FWileyTitle%2FproductCd-0471219754.html"
+                                     title="Report an issue with this listing"><i class='fa fa-flag'></i></a>
+                                </div>
+
+                                <div class="title-and-desc">
+                                  <a target="_blank" href="http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471219754.html">
+                                    <div class="site-title">Making Use of Python </div>
+                                  </a>
+                                  <div class="site-descr ">
+
+                                    By Rashi Gupta; John Wiley and Sons, 2002, ISBN 0471219754. Covers language basics, use for CGI scripting, GUI development, network programming; shows why it is one of more sophisticated of popular scripting languages. [Wiley]
+                                    <span class="content-type media-date"></span>
+                                  </div>
+                                </div>
+                            </div>
+
+                            <div class="site-item ">
+                                <div class="site-icon "><i class='siteIcon fa fa-file-text-o'></i></div>
+                                <div class="site-flag">
+                                  <a href="/public/flag?t=computers&cat=Computers%2FProgramming%2FLanguages%2FPython%2FBooks&url=http%3A%2F%2Fhetland.org%2Fwriting%2Fpractical-python%2F"
+                                     title="Report an issue with this listing"><i class='fa fa-flag'></i></a>
+                                </div>
+
+                                <div class="title-and-desc">
+                                  <a target="_blank" href="http://hetland.org/writing/practical-python/">
+                                    <div class="site-title">Practical Python </div>
+                                  </a>
+                                  <div class="site-descr ">
+
+                                    By Magnus Lie Hetland; Apress LP, 2002, ISBN 1590590066. Readable guide to ideas most vital to new users, from basics common to high level languages, to more specific aspects, to a series of 10 ever more complex programs. [Apress]
+                                    <span class="content-type media-date"></span>
+                                  </div>
+                                </div>
+                            </div>
+
+                            <div class="site-item ">
+                                <div class="site-icon "><i class='siteIcon fa fa-file-text-o'></i></div>
+                                <div class="site-flag">
+                                  <a href="/public/flag?t=computers&cat=Computers%2FProgramming%2FLanguages%2FPython%2FBooks&url=http%3A%2F%2Fsysadminpy.com%2F"
+                                     title="Report an issue with this listing"><i class='fa fa-flag'></i></a>
+                                </div>
+
+                                <div class="title-and-desc">
+                                  <a target="_blank" href="http://sysadminpy.com/">
+                                    <div class="site-title">Pro Python System Administration </div>
+                                  </a>
+                                  <div class="site-descr ">
+
+                                    By Rytis Sileika, ISBN13: 978-1-4302-2605-5, Uses real-world system administration examples like manage devices with SNMP and SOAP, build a distributed monitoring system, manage web applications and parse complex log files, monitor and manage MySQL databases.
+                                    <span class="content-type media-date"></span>
+                                  </div>
+                                </div>
+                            </div>
+
+                            <div class="site-item ">
+                                <div class="site-icon "><i class='siteIcon fa fa-file-text-o'></i></div>
+                                <div class="site-flag">
+                                  <a href="/public/flag?t=computers&cat=Computers%2FProgramming%2FLanguages%2FPython%2FBooks&url=http%3A%2F%2Fwww.qtrac.eu%2Fpy3book.html"
+                                     title="Report an issue with this listing"><i class='fa fa-flag'></i></a>
+                                </div>
+
+                                <div class="title-and-desc">
+                                  <a target="_blank" href="http://www.qtrac.eu/py3book.html">
+                                    <div class="site-title">Programming in Python 3 (Second Edition) </div>
+                                  </a>
+                                  <div class="site-descr ">
+
+                                    A Complete Introduction to the Python 3.
+                                    <span class="content-type media-date"></span>
+                                  </div>
+                                </div>
+                            </div>
+
+                            <div class="site-item ">
+                                <div class="site-icon "><i class='siteIcon fa fa-file-text-o'></i></div>
+                                <div class="site-flag">
+                                  <a href="/public/flag?t=computers&cat=Computers%2FProgramming%2FLanguages%2FPython%2FBooks&url=http%3A%2F%2Fwww.wiley.com%2FWileyCDA%2FWileyTitle%2FproductCd-0764548077.html"
+                                     title="Report an issue with this listing"><i class='fa fa-flag'></i></a>
+                                </div>
+
+                                <div class="title-and-desc">
+                                  <a target="_blank" href="http://www.wiley.com/WileyCDA/WileyTitle/productCd-0764548077.html">
+                                    <div class="site-title">Python 2.1 Bible </div>
+                                  </a>
+                                  <div class="site-descr ">
+
+                                    By Dave Brueck, Stephen Tanner; John Wiley and Sons, 2001, ISBN 0764548077. Full coverage, clear explanations, hands-on examples, full language reference; shows step by step how to use components, assemble them, form full-featured programs. [John Wiley and Sons]
+                                    <span class="content-type media-date"></span>
+                                  </div>
+                                </div>
+                            </div>
+
+                            <div class="site-item ">
+                                <div class="site-icon "><i class='siteIcon fa fa-file-text-o'></i></div>
+                                <div class="site-flag">
+                                  <a href="/public/flag?t=computers&cat=Computers%2FProgramming%2FLanguages%2FPython%2FBooks&url=https%3A%2F%2Fwww.packtpub.com%2Fpython-3-object-oriented-programming%2Fbook"
+                                     title="Report an issue with this listing"><i class='fa fa-flag'></i></a>
+                                </div>
+
+                                <div class="title-and-desc">
+                                  <a target="_blank" href="https://www.packtpub.com/python-3-object-oriented-programming/book">
+                                    <div class="site-title">Python 3 Object Oriented Programming </div>
+                                  </a>
+                                  <div class="site-descr ">
+
+                                    A step-by-step tutorial for OOP in Python 3, including discussion and examples of abstraction, encapsulation, information hiding, and raise, handle, define, and manipulate exceptions.
+                                    <span class="content-type media-date"></span>
+                                  </div>
+                                </div>
+                            </div>
+
+                            <div class="site-item ">
+                                <div class="site-icon "><i class='siteIcon fa fa-file-text-o'></i></div>
+                                <div class="site-flag">
+                                  <a href="/public/flag?t=computers&cat=Computers%2FProgramming%2FLanguages%2FPython%2FBooks&url=http%3A%2F%2Fwww.network-theory.co.uk%2Fpython%2Flanguage%2F"
+                                     title="Report an issue with this listing"><i class='fa fa-flag'></i></a>
+                                </div>
+
+                                <div class="title-and-desc">
+                                  <a target="_blank" href="http://www.network-theory.co.uk/python/language/">
+                                    <div class="site-title">Python Language Reference Manual </div>
+                                  </a>
+                                  <div class="site-descr ">
+
+                                    By Guido van Rossum, Fred L. Drake, Jr.; Network Theory Ltd., 2003, ISBN 0954161785. Printed edition of official language reference, for v2.x, from Python.org, describes syntax, built-in datatypes. [Network Theory, online]
+                                    <span class="content-type media-date"></span>
+                                  </div>
+                                </div>
+                            </div>
+
+                            <div class="site-item ">
+                                <div class="site-icon "><i class='siteIcon fa fa-file-text-o'></i></div>
+                                <div class="site-flag">
+                                  <a href="/public/flag?t=computers&cat=Computers%2FProgramming%2FLanguages%2FPython%2FBooks&url=http%3A%2F%2Fwww.informit.com%2Fstore%2Fproduct.aspx%3Fisbn%3D0201616165%26redir%3D1"
+                                     title="Report an issue with this listing"><i class='fa fa-flag'></i></a>
+                                </div>
+
+                                <div class="title-and-desc">
+                                  <a target="_blank" href="http://www.informit.com/store/product.aspx?isbn=0201616165&redir=1">
+                                    <div class="site-title">Python Programming with the Java Class Libraries: A Tutorial for Building Web and Enterprise Applications with Jython </div>
+                                  </a>
+                                  <div class="site-descr ">
+
+                                    By Richard Hightower; Addison-Wesley, 2002, 0201616165. Begins with Python basics, many exercises, interactive sessions. Shows programming novices concepts and practical methods. Shows programming experts Python's abilities and ways to interface with Java APIs. [publisher website]
+                                    <span class="content-type media-date"></span>
+                                  </div>
+                                </div>
+                            </div>
+
+                            <div class="site-item ">
+                                <div class="site-icon "><i class='siteIcon fa fa-file-text-o'></i></div>
+                                <div class="site-flag">
+                                  <a href="/public/flag?t=computers&cat=Computers%2FProgramming%2FLanguages%2FPython%2FBooks&url=http%3A%2F%2Fwww.informit.com%2Fstore%2Fproduct.aspx%3Fisbn%3D0672317354"
+                                     title="Report an issue with this listing"><i class='fa fa-flag'></i></a>
+                                </div>
+
+                                <div class="title-and-desc">
+                                  <a target="_blank" href="http://www.informit.com/store/product.aspx?isbn=0672317354">
+                                    <div class="site-title">Sams Teach Yourself Python in 24 Hours </div>
+                                  </a>
+                                  <div class="site-descr ">
+
+                                    By Ivan Van Laningham; Sams Publishing, 2000, ISBN 0672317354. Split into 24 hands-on, 1 hour lessons; steps needed to learn topic: syntax, language features, OO design and programming, GUIs (Tkinter), system administration, CGI. [Sams Publishing]
+                                    <span class="content-type media-date"></span>
+                                  </div>
+                                </div>
+                            </div>
+
+                            <div class="site-item ">
+                                <div class="site-icon "><i class='siteIcon fa fa-file-text-o'></i></div>
+                                <div class="site-flag">
+                                  <a href="/public/flag?t=computers&cat=Computers%2FProgramming%2FLanguages%2FPython%2FBooks&url=http%3A%2F%2Fgnosis.cx%2FTPiP%2F"
+                                     title="Report an issue with this listing"><i class='fa fa-flag'></i></a>
+                                </div>
+
+                                <div class="title-and-desc">
+                                  <a target="_blank" href="http://gnosis.cx/TPiP/">
+                                    <div class="site-title">Text Processing in Python </div>
+                                  </a>
+                                  <div class="site-descr ">
+
+                                    By David Mertz; Addison Wesley. Book in progress, full text, ASCII format. Asks for feedback. [author website, Gnosis Software, Inc.]
+                                    <span class="content-type media-date"></span>
+                                  </div>
+                                </div>
+                            </div>
+
+                            <div class="site-item ">
+                                <div class="site-icon "><i class='siteIcon fa fa-file-text-o'></i></div>
+                                <div class="site-flag">
+                                  <a href="/public/flag?t=computers&cat=Computers%2FProgramming%2FLanguages%2FPython%2FBooks&url=http%3A%2F%2Fwww.informit.com%2Fstore%2Fproduct.aspx%3Fisbn%3D0130211192"
+                                     title="Report an issue with this listing"><i class='fa fa-flag'></i></a>
+                                </div>
+
+                                <div class="title-and-desc">
+                                  <a target="_blank" href="http://www.informit.com/store/product.aspx?isbn=0130211192">
+                                    <div class="site-title">XML Processing with Python </div>
+                                  </a>
+                                  <div class="site-descr ">
+
+                                    By Sean McGrath; Prentice Hall PTR, 2000, ISBN 0130211192, has CD-ROM. Methods to build XML applications fast, Python tutorial, DOM and SAX, new Pyxie open source XML processing library. [Prentice Hall PTR]
+                                    <span class="content-type media-date"></span>
+                                  </div>
+                                </div>
+                            </div>
+
+                        </div>
+
+            </div>
+    </section>
+
+
+    <!---------- ALTERNATE LANGUAGES ---------->
+
+    <section class="results alt-language">
+        <h3 id="alt-language-header-8" class="alt-lang-header node-header">
+          <i class='arrow fa fa-caret-down'></i>
+          <span class="header-text">Other languages</span>
+          <span class="header-count node-count">2</span>
+          <i class='section-closed fa fa-comment'></i>
+          <i class='section-open   fa fa-comment'></i>
+        </h3>
+        <div id="altlang-section" class="section-wrapper">
+            <div id="alt-language-content-8" class="cat-list results alt-language-content leaf-nodes">
+
+                <div class="cat-item">
+                   <a href="/World/Deutsch/Computer/Programmieren/Sprachen/Python/B%C3%BCcher">
+                      <div class="browse-node">
+                        <i class='catIcon fa fa-comment'></i>
+                        Deutsch
+                        <div class="node-count">2</div>
+                      </div>
+                   </a>
+                </div>
+
+                <div class="cat-item">
+                   <a href="/World/Russian/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D1%8B/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%AF%D0%B7%D1%8B%D0%BA%D0%B8/Python/%D0%9A%D0%BD%D0%B8%D0%B3%D0%B8">
+                      <div class="browse-node">
+                        <i class='catIcon fa fa-comment'></i>
+                        Русский
+                        <div class="node-count">3</div>
+                      </div>
+                   </a>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+
+    <section class="results editors-and-mozzie">
+
+     <!---------- LIZARD ICON ---------->
+
+     <div class="custom-mozzie">
+       <img src="/img/moz/obooksm.gif" width = 84 height = 55 alt="&#x005B;Book Mozilla]">
+     </div>
+
+
+     <div class="edit-block">
+
+       <!---------- SHOW EDITORS and LAST UPDATE DATE ---------->
+
+        <div class="cat-editors">
+
+        </div>
+
+        <!---------- LAST UPDATE DATE ---------->
+
+        <div class="last-update">
+
+          <div id="last-update-header" class="last-update-section"> Last update: </div>
+
+            <span class="last-update"><i class="fa fa-calendar"></i>September 18, 2016 at 5:15:05 UTC</span>
+
+        </div>
+     </div>
+  </section>  <!-- group editors and last update date with mozzie -->
+
+
+    <!---------- CATEGORIES ---------->
+
+
+
+    <section class="thundercats">
+      <div id="cat-slideshow" class="thundercats slideshow slidecount-15" >
+
+             <div class="category computers"
+                onClick="window.location.href='/Computers'"><div class="cat-label">Computers</div></div>
+
+             <div class="category games"
+                onClick="window.location.href='/Games'"><div class="cat-label">Games</div></div>
+
+             <div class="category health"
+                onClick="window.location.href='/Health'"><div class="cat-label">Health</div></div>
+
+             <div class="category home"
+                onClick="window.location.href='/Home'"><div class="cat-label">Home</div></div>
+
+             <div class="category news"
+                onClick="window.location.href='/News'"><div class="cat-label">News</div></div>
+
+             <div class="category recreation"
+                onClick="window.location.href='/Recreation'"><div class="cat-label">Recreation</div></div>
+
+             <div class="category reference"
+                onClick="window.location.href='/Reference'"><div class="cat-label">Reference</div></div>
+
+             <div class="category regional"
+                onClick="window.location.href='/Regional'"><div class="cat-label">Regional</div></div>
+
+             <div class="category science"
+                onClick="window.location.href='/Science'"><div class="cat-label">Science</div></div>
+
+             <div class="category shopping"
+                onClick="window.location.href='/Shopping'"><div class="cat-label">Shopping</div></div>
+
+             <div class="category society"
+                onClick="window.location.href='/Society'"><div class="cat-label">Society</div></div>
+
+             <div class="category sports"
+                onClick="window.location.href='/Sports'"><div class="cat-label">Sports</div></div>
+
+             <div class="category world"
+                onClick="window.location.href='/World'"><div class="cat-label">All Languages</div></div>
+
+             <div class="category arts"
+                onClick="window.location.href='/Arts'"><div class="cat-label">Arts</div></div>
+
+             <div class="category business"
+                onClick="window.location.href='/Business'"><div class="cat-label">Business</div></div>
+
+      </div>
+    </section>
+
+
+    <!---------- ALT SEARCH ---------->
+
+    <section class="results alt-search">
+
+     <div class="alt-search">
+
+        <div class="search-on">
+           "<b>Computers ... Books</b>" search&nbsp;on:
+        </div>
+
+        <div class="alt-sites">
+
+           <a href="http://search.aol.com/aol/search?query=Computers+Programming+Languages+Python+Books">AOL</a> -
+<a href="http://www.ask.com/web?q=Computers+Programming+Languages+Python+Books">Ask</a> -
+<a href="https://www.bing.com/search?q=Computers+Programming+Languages+Python+Books">Bing</a> -
+<a href="https://duckduckgo.com/?q=Computers+Programming+Languages+Python+Books">DuckDuckGo</a> -
+<a href="https://gigablast.com/search?q=Computers+Programming+Languages+Python+Books">Gigablast</a> -
+<a href="https://www.google.com/search?q=Computers+Programming+Languages+Python+Books">Google</a> -
+<a href="https://www.ixquick.com/do/search/?q=Computers+Programming+Languages+Python+Books">ixquick</a> -
+<a href="https://search.yahoo.com/search?p=Computers+Programming+Languages+Python+Books">Yahoo</a> -
+<a href="https://www.yandex.com/yandsearch?text=Computers+Programming+Languages+Python+Books">Yandex</a> -
+<a href="http://new.yippy.com/search?query=Computers+Programming+Languages+Python+Books">Yippy</a>
+
+      </div>
+    </section>
+
+
+  <!---------- FOOTER ---------->
+
+    <footer>
+        <div class="copyright">
+            Copyright &copy; 1998-2017 AOL Inc.
+        </div>
+
+        <div class="terms">
+            <a class="terms-of-use" href="/docs/en/termsofuse.html">Terms of Use</a>
+        </div>
+
+        <div class="build">
+            <p>Built by <a href="/docs/en/cmbuild.html">CMBuild</a></p>
+        </div>
+    </footer>
+
+
+<script type="text/javascript">
+
+  bN_cfg =
+  {
+    h: location.hostname
+  };
+
+  function runOmni()
+  {
+    s_265.pfxID="dmoz";
+    s_265.pageName="nodeviewer.jsp";
+    s_265.channel="us.dmozodp";
+    s_265.linkInternalFilters="javascript:,dmoz.org";
+    s_265.prop1="browse : computers";
+    s_265.prop2="depth : 5";
+    s_265.prop16="en";
+    s_265.prop54="no_cms";
+    s_265.prop62="video_novideo";
+    s_265.prop65="original_content";
+    s_265.mmxgo=true;
+
+    var s_code=s_265.t();
+  }
+
+  s_265_account ="aolsvc";
+
+  (function(){
+    var d = document, s = d.createElement('script');
+    s.type = 'text/javascript';
+    s.src = (location.protocol == 'https:' ? 'https://s' : 'http://o') + '.aolcdn.com/os_merge/?file=/aol/beacon.min.js&file=/aol/omniture.min.js';
+    d.getElementsByTagName('head')[0].appendChild(s);
+  })();
+</script>
+
+
+</div>  <!-- close div id=page -->
+
+</body>
+</html>
+
