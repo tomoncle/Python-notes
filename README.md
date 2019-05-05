@@ -36,7 +36,7 @@ export PYTHONPATH=/usr/lib/python2.7:/usr/lib/python2.7/plat-x86_64-linux-gnu:/u
 export PATH=$PATH:$PYTHONPATH
 ```
 
-## `Python2.7`与`Python3.x` 共同使用
+## Windows环境`Python2.7`与`Python3.x` 共同使用
 
 * Python2.7 : `$ py -2`
 * Python3.x : `$ py -3`
